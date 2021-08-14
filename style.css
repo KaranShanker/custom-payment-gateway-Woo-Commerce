@@ -1,0 +1,6 @@
+.wc_payment_method>label:first-of-type img {
+    max-width: 58px;
+    float: right;
+    /* max-height: 204px; */
+    height: 53px;
+}
